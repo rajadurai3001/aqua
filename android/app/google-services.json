@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417393749148",
+    "project_id": "aqua-culture-ce03d",
+    "storage_bucket": "aqua-culture-ce03d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417393749148:android:ebe55aac2ae0bb01aad159",
+        "android_client_info": {
+          "package_name": "com.example.aquaculture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVZ1KomzwZ-dZ0rziyfI6olbmCu4tfK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417393749148:android:62798037efd1646aaad159",
+        "android_client_info": {
+          "package_name": "com.splash.aqua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVZ1KomzwZ-dZ0rziyfI6olbmCu4tfK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
